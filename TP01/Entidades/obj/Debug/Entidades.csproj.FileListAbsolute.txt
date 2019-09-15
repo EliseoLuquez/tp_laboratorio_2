@@ -1,0 +1,12 @@
+C:\Users\Eli\source\repos\TP01\Entidades\bin\Debug\Entidades.dll
+C:\Users\Eli\source\repos\TP01\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Eli\source\repos\TP01\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Eli\source\repos\TP01\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\TP01\Entidades\obj\Debug\Entidades.dll
+C:\Users\Eli\source\repos\TP01\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\utn_prog_y_lab_II-master\utn_prog_y_lab_II-Recursadaa\tp_laboratorio_2\TP01\Entidades\bin\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\utn_prog_y_lab_II-master\utn_prog_y_lab_II-Recursadaa\tp_laboratorio_2\TP01\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\utn_prog_y_lab_II-master\utn_prog_y_lab_II-Recursadaa\tp_laboratorio_2\TP01\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\utn_prog_y_lab_II-master\utn_prog_y_lab_II-Recursadaa\tp_laboratorio_2\TP01\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\utn_prog_y_lab_II-master\utn_prog_y_lab_II-Recursadaa\tp_laboratorio_2\TP01\Entidades\obj\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\utn_prog_y_lab_II-master\utn_prog_y_lab_II-Recursadaa\tp_laboratorio_2\TP01\Entidades\obj\Debug\Entidades.pdb
