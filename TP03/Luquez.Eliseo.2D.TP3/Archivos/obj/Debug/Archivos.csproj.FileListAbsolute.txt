@@ -1,0 +1,17 @@
+D:\Luquez\TP03\Luquez.Eliseo.2D.TP3\Archivos\bin\Debug\Archivos.dll
+D:\Luquez\TP03\Luquez.Eliseo.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Luquez\TP03\Luquez.Eliseo.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\Luquez\TP03\Luquez.Eliseo.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\Luquez\TP03\Luquez.Eliseo.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\Luquez\TP03\Luquez.Eliseo.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Luquez\TP03\Luquez.Eliseo.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\Luquez\TP03\Luquez.Eliseo.2D.TP3\Archivos\obj\Debug\Archivos.dll
+D:\Luquez\TP03\Luquez.Eliseo.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP03\Luquez.Eliseo.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP03\Luquez.Eliseo.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP03\Luquez.Eliseo.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP03\Luquez.Eliseo.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP03\Luquez.Eliseo.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP03\Luquez.Eliseo.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP03\Luquez.Eliseo.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP03\Luquez.Eliseo.2D.TP3\Archivos\obj\Debug\Archivos.pdb
