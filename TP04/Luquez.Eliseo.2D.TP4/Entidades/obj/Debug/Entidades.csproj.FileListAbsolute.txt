@@ -1,0 +1,12 @@
+C:\Users\romy\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\romy\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\romy\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\romy\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\romy\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\romy\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Eli\Desktop\tp_laboratorio_2\TP04\Luquez.Eliseo.2D.TP4\Entidades\obj\Debug\Entidades.pdb
